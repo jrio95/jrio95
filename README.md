@@ -3,6 +3,11 @@
 
 My name is Jose and I am a software engineer. Looking to improve every day
 
+## TODO's 🌱
+[] Improve in .NET (.NET Core)
+[] Introducing in Docker
+[] Create github personal web page
+
 📫 Email: josmartin95@gmail.com
 <!--
 **jrio95/jrio95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
