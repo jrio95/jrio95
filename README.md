@@ -1,12 +1,7 @@
 ### 👋 Hi there 👋
 [![GitHub followers](https://img.shields.io/github/followers/jrio95.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/jrio95?tab=followers)
 
-My name is Jose and I am a software engineer. Looking to improve every day
-
-## TODO's 🌱
-- [X] Improve in .NET (.NET Core)
-- [X] Introducing in Docker
-- [ ] Create github personal web page
+My name is Jose and I am a software engineer.
 
 📫 Email: josmartin95@gmail.com
 <!--
